@@ -24,12 +24,10 @@ public:
 		elephant->Eat();
 		lion->Hunt();
 		lion->Eat();
-
 		
 		deer->Eat();
 		wolf->Hunt();
 		wolf->Eat();
-
 		
 		elk->Eat();
 		bear->Hunt();
